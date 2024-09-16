@@ -22,23 +22,21 @@
     <img src="images/working.gif" width="60%">
 </p>
 
-<p align="center">
-    Profile Visited:
-    <img align="center" src="https://profile-counter.glitch.me/{kmmuntasir}/count.svg">
+<p align='center'> 
+Profile Visited : 
+<img align="center" src = "https://profile-counter.glitch.me/{kmmuntasir}/count.svg"> 
 </p>
 
 <p align='center'>
-    <a href="https://github.com/kmmuntasir">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmmuntasir&hide=html,
-        css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-    </a>
+<a href="https://github.com/kmmuntasir">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmmuntasir&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 </p>
 
 <p align='center'>
-    <a href="https://github.com/kmmuntasir">
-        <img align="center" style="margin-left:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kmmuntasir&show_icons=true&
-        line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
-    </a>
+<a href="https://github.com/kmmuntasir">
+  <img align="center" style="margin-left:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kmmuntasir&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="kmmuntasir's GitHub Stats" />
+</a>
 </p>
 <hr>
 
