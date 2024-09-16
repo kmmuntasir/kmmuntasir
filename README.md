@@ -19,7 +19,7 @@
 
 
 <p align='center'>
-    <img src="images/working.gif" width="60%" alt="">
+    <img src="images/working.gif" width="60%">
 </p>
 
 <p align="center">
@@ -37,8 +37,7 @@
 <p align='center'>
     <a href="https://github.com/kmmuntasir">
         <img align="center" style="margin-left:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kmmuntasir&show_icons=true&
-        line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="kmmuntasir's GitHub
-        Stats" />
+        line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
     </a>
 </p>
 <hr>
@@ -54,12 +53,12 @@
 
 <div align="center">
     <a href="mailto:kmmuntasir@gmail.com" target="_blank">
-        <img src="images/icons/gmail.svg" width="42" height="30" alt="gmail logo" />
+        <img src="images/icons/gmail.svg" width="42" height="30" />
     </a>
     <a href="https://www.linkedin.com/in/kmmuntasir" target="_blank">
-        <img src="images/icons/linkedin.svg" width="42" height="30" alt="linkedin logo" />
+        <img src="images/icons/linkedin.svg" width="42" height="30" />
     </a>
     <a href="https://resume.kmmuntasir.com/" target="_blank">
-        <img src="images/icons/resume.svg" width="42" height="30" alt="resume website" />
+        <img src="images/icons/resume.svg" width="42" height="30" />
     </a>
 </div>
